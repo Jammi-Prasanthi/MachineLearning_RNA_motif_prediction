@@ -7,3 +7,5 @@ Major steps of training process include data acquisition, exploration and visual
 
 The calculated evaluation metrics such as accuracy, precision score, recall, F1 score and AUC ROC scores of all the supervised models are presented in a tabular form for better comparison.
 For Kmeans clustering, silhouette score of the clusters is provided as evaluation metric.
+
+For code refer RNA_motifs_prediction.ipynb
